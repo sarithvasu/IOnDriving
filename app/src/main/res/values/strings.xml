@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">IOnDriving</string>
+    <string name="your_speed">Your speed</string>
+    <string name="kpm">kph</string>
+    <string name="arch">arch</string>
+    <string name="start">Start Monitoring</string>
+    <string name="stop">  Stop Monitoring </string>
+    <string name="title_activity_dpmonitoring_archive_list">DPMonitoringArchiveList</string>
+
+    <string name="Crng">Crng</string>
+    <string name="Interrupt_Status">Interrupt Status</string>
+    <string name="Interrupt_Type">Interrupt Type </string>
+    <string name="name_Duration">Name Duration</string>
+    <string name="End_Time">End Time</string>
+    <string name="Start_Time">Start Time</string>
+
+    <!-- items in the mail-->
+    <string name="Lat">Lat</string>
+    <string name="Lon">Lon</string>
+    <string name="Speed">Speed</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Acc_X">Acc X</string>
+    <string name="Acc_Y">Acc Y</string>
+    <string name="Acc_Z">Acc Z</string>
+    <string name="Signal_Strength">Signal Strength</string>
+    <string name="Gyro_X">Gyro X</string>
+    <string name="Gyro_Y">Gyro Y</string>
+    <string name="Gyro_Z">Gyro Z</string>
+    <string name="GPS_Accuracy">GPS_Accuracy</string>
+    <string name="breaking">Break-Acc Flag</string>
+    <string name="audio_settings">Audio enable</string>
+    <string name="acc_ter">Acceleration threshold</string>
+    <string name="baking_threshold">BrEaking threshold</string>
+    <string name="voice_alert">Voice alert</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- headerTitle Text -->
+
+</resources>
